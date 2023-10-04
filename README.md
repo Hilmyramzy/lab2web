@@ -57,6 +57,8 @@ Tampilan VS Code
 Tampilan VS Code
 ![Screenshot (178)](https://github.com/Hilmyramzy/lab2web/assets/115677769/6f48766b-4471-46b4-a8bf-218b725dceb3)
 ![272142483-ec8dccea-a575-4ed0-a390-b299ac228237](https://github.com/Hilmyramzy/lab2web/assets/115677769/2c4c93b7-8166-4f93-b8cb-c24128e43bbd)
+![Screenshot (179)](https://github.com/Hilmyramzy/lab2web/assets/115677769/4006c4ba-677d-4226-9950-0119255f5f83)
+
 
 
 
